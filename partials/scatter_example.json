@@ -1,86 +1,91 @@
-[
-  {
-    "tipo": "Licitación",
-    "monto": 12855,
-    "vigencia": 50,
-    "fecha": "12 Ene 2015",
-    "contrato": "SO-005542-N23-2015"
-  },
-  {
-    "tipo": "Contrato",
-    "monto": 17543,
-    "vigencia": 24,
-    "fecha": "2 Feb 2016",
-    "contrato": "CO-33232-N23-2016"
-  },
-  {
-    "tipo": "Contrato",
-    "monto": 25687,
-    "vigencia": 12,
-    "fecha": "8 Feb 2016",
-    "contrato": "CO-11005454-N23-2016"
-  },
-  {
-    "tipo": "Contrato",
-    "monto": 96345,
-    "vigencia": 16,
-    "fecha": "16 Feb 2016",
-    "contrato": "CO-005542-N23-2016"
-  },
-  {
-    "tipo": "Contrato",
-    "monto": 35698,
-    "vigencia": 3,
-    "fecha": "20 Feb 2016",
-    "contrato": "CO-456633-N23-2016"
-  },
-  {
-    "tipo": "Contrato",
-    "monto": 75866,
-    "vigencia": 30,
-    "fecha": "20 Feb 2016",
-    "contrato": "CO-36990-N23-2016"
-  },
-  {
-    "tipo": "Licitación",
-    "monto": 22456,
-    "vigencia": 12,
-    "fecha": "Mar 2016",
-    "contrato": "LI-14855-N23-2015"
-  },
-  {
-    "tipo": "Adjudicación directa",
-    "monto": 67894,
-    "vigencia": 30,
-    "fecha": "Jun 2015",
-    "contrato": "AD-32121-N23-2015"
-  },
+{
+  "titulo": "Tipos de contratación",
+  "ejex": "Fecha de firma",
+  "ejey": "Vigencia en meses",
+  "valores": [
     {
-    "tipo": "Adjudicación directa 2",
-    "monto": 45988,
-    "vigencia": 10,
-    "fecha": "May 2016",
-    "contrato": "AD-654325-N23-2016"
-  },
-  {
-    "tipo": "Adjudicación directa 3",
-    "monto": 87965,
-    "vigencia": 8,
-    "fecha": "Jul 2016",
-    "contrato": "SO-987987-N23-2016"
-  },
-  {
-    "tipo": "Invitación a 3",
-    "monto": 32659,
-    "vigencia": 6,
-    "fecha": "Abr 2015",
-    "contrato": "IN-000005-N23-2015"
-  },
-  {
-    "tipo": "Invitación a 3",
-    "monto": 66788,
-    "vigencia": 4,
-    "fecha": "May 2016",
-    "contrato": "IN-230056-N23-2015"
-  }
-]
+      "tipo": "Licitación",
+      "monto": 12855,
+      "vigencia": 50,
+      "fecha": "12 Ene 2015",
+      "contrato": "SO-005542-N23-2015"
+    },
+    {
+      "tipo": "Contrato",
+      "monto": 17543,
+      "vigencia": 24,
+      "fecha": "2 Feb 2016",
+      "contrato": "CO-33232-N23-2016"
+    },
+    {
+      "tipo": "Contrato",
+      "monto": 25687,
+      "vigencia": 12,
+      "fecha": "8 Feb 2016",
+      "contrato": "CO-11005454-N23-2016"
+    },
+    {
+      "tipo": "Contrato",
+      "monto": 96345,
+      "vigencia": 16,
+      "fecha": "16 Feb 2016",
+      "contrato": "CO-005542-N23-2016"
+    },
+    {
+      "tipo": "Contrato",
+      "monto": 35698,
+      "vigencia": 3,
+      "fecha": "20 Feb 2016",
+      "contrato": "CO-456633-N23-2016"
+    },
+    {
+      "tipo": "Contrato",
+      "monto": 75866,
+      "vigencia": 30,
+      "fecha": "20 Feb 2016",
+      "contrato": "CO-36990-N23-2016"
+    },
+    {
+      "tipo": "Licitación",
+      "monto": 22456,
+      "vigencia": 12,
+      "fecha": "Mar 2016",
+      "contrato": "LI-14855-N23-2015"
+    },
+    {
+      "tipo": "Adjudicación directa",
+      "monto": 67894,
+      "vigencia": 30,
+      "fecha": "Jun 2015",
+      "contrato": "AD-32121-N23-2015"
+    },
+    {
+      "tipo": "Adjudicación directa 2",
+      "monto": 45988,
+      "vigencia": 10,
+      "fecha": "May 2016",
+      "contrato": "AD-654325-N23-2016"
+    },
+    {
+      "tipo": "Adjudicación directa 3",
+      "monto": 87965,
+      "vigencia": 8,
+      "fecha": "Jul 2016",
+      "contrato": "SO-987987-N23-2016"
+    },
+    {
+      "tipo": "Invitación a 3",
+      "monto": 32659,
+      "vigencia": 6,
+      "fecha": "Abr 2015",
+      "contrato": "IN-000005-N23-2015"
+    },
+    {
+      "tipo": "Invitación a 3",
+      "monto": 66788,
+      "vigencia": 4,
+      "fecha": "May 2016",
+      "contrato": "IN-230056-N23-2015"
+    }
+  ]
+}
