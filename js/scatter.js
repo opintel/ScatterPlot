@@ -98,9 +98,9 @@ var jsonScatter;
     var middleOp = middle / jsonScatter.valores.length;
     var middleEnd = Math.round(middleOp).toFixed(3)
 
-    $("#legendBig").html( mayorNum.replace(".", ",") );
-    $("#legendMd").html( middleEnd.replace(".", ",") );
-    $("#legendSm").html( menorNum.replace(".", ",") );
+    $("#legendBig").html( mayorNum.replace(".", ",") + " " + jsonScatter.unidad );
+    $("#legendMd").html( middleEnd.replace(".", ",") + " " + jsonScatter.unidad );
+    $("#legendSm").html( menorNum.replace(".", ",") + " " + jsonScatter.unidad );
 
 
     //Validacion de Json

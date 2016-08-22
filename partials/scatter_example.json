@@ -2,6 +2,7 @@
   "titulo": "Tipos de contratación",
   "ejex": "Fecha de firma",
   "ejey": "Vigencia en meses",
+  "unidad": "Pesos",
   "valores": [
     {
       "tipo": "Licitación",
