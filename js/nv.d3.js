@@ -1047,12 +1047,6 @@ nv.utils.pjax = function(links, content) {
         });
     };
 
-    d3.selectAll(links).on("click", function() {
-        history.pushState(this.href, this.textContent, this.href);
-        load(this.href);
-        d3.event.preventDefault();
-    });
-
     d3.select(window).on("popstate", function() {
         if (d3.event.state) {
             load(d3.event.state);

@@ -91,8 +91,6 @@ var jsonScatter;
       middle = middle + new_num;
     });
 
-    console.log(d3plus);
-
     var mayorNum = Math.max.apply(Math, getNumbers).toFixed(3);
     var menorNum = Math.min.apply(Math, getNumbers).toFixed(3);
     var middleOp = middle / jsonScatter.valores.length;
